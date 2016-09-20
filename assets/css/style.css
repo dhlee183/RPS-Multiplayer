@@ -1,0 +1,46 @@
+body {
+	background-color: #90EE90;
+}
+
+.navbar {
+	background-color: green;
+}
+
+#playerName {
+	width: 25%;
+	float: left;
+	margin-left: 35%;
+}
+
+#startButton,
+#sendButton {
+	float: left;
+}
+
+#playRow,
+#chatRow {
+	margin-top: 30px;
+}
+
+.panel-body {
+	border-style: solid;
+	border-width: 1px;
+	border-color: grey;
+	height: 200px;
+	text-align: center;
+}
+
+#chat {
+	border-style: solid;
+	border-width: 1px;
+	border-color: grey;
+	height: 200px;
+	width: 50%;
+	margin-left: 25%;
+}
+
+#chatInput {
+	width: 45%;
+	float: left;
+	margin-left: 25%;
+}
